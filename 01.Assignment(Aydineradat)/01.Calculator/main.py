@@ -1,7 +1,7 @@
 import math
 
 operator = input("Plz enter your operator among these: + , - , * , / , sqrt(square root) , sin , cos , tan , cot , fac(factorial):")
-if operator == "+" or "-" or "*" or "/":
+if operator == "+" or operator == "-" or operator == "*" or operator == "/":
     a = float(input("Please enter your first number:"))
     b = float(input("Please enter your second number:"))
 
@@ -17,7 +17,7 @@ if operator == "+" or "-" or "*" or "/":
         else:
             result = "Division by zero error"
 
-if operator == "sqrt" or "sin" or "cos" or "tan" or "cot" or "fac":
+elif operator == "sqrt" or operator == "sin" or operator == "cos" or operator == "tan" or operator == "cot" or operator ==  "fac":
     a = float(input("Plz enter your number:"))
     if operator == "sqrt":
         result = math.sqrt(a)

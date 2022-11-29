@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="72d2fe5f-a1a0-474a-a02a-5f29a47e2b77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../01.Average/.idea/01.Average.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Average/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Average/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Average/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Average/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Average/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.BMI/.idea/01.BMI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.BMI/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.BMI/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.BMI/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.BMI/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Triangle/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Triangle/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Triangle/.idea/01.Triangle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Triangle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Triangle/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Triangle/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01.Triangle/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03.Assignment(Aydineradat)/03.Hangman/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../03.Assignment(Aydineradat)/03.Hangman/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +44,28 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01.Calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Python tamrin/1.Calculator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Python tamrin/1.Calculator/Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="01.Calculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,6 +90,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.Calculator" />
       </list>
     </recent_temporary>
   </component>
